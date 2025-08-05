@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,Diagnosis,Treatment,Length_of_Stay,Outcome,Readmission
+P0001,45,F,Heart Failure,Medication,5,Recovered,No
+P0002,60,M,Pneumonia,Antibiotics,7,Recovered,No
+P0003,30,F,Diabetes,Insulin,3,Recovered,Yes
+P0004,77,M,Stroke,Surgery,10,Recovered,No
+P0005,50,F,Diabetes,Insulin,4,Recovered,Yes
+P0006,68,M,Heart Failure,Medication,6,Recovered,No
+P0007,33,F,Fracture,Cast,2,Recovered,Yes
+P0008,29,M,Stroke,Surgery,9,Deceased,No
+P0009,55,F,Cancer,Chemo,14,Recovered,Yes
+P0010,40,M,Pneumonia,Antibiotics,5,Recovered,No
+P0011,63,M,Fracture,Cast,3,Recovered,Yes
+P0012,48,F,Heart Failure,Medication,7,Recovered,No
+P0013,36,M,Cancer,Chemo,13,Deceased,Yes
+P0014,72,F,Stroke,Surgery,8,Deceased,No
+P0015,51,F,Diabetes,Insulin,4,Recovered,Yes
+P0016,39,M,Pneumonia,Antibiotics,6,Recovered,No
+P0017,66,M,Fracture,Cast,2,Recovered,Yes
+P0018,58,F,Heart Failure,Medication,7,Recovered,No
+P0019,41,M,Stroke,Surgery,10,Deceased,No
+P0020,70,F,Cancer,Chemo,15,Deceased,Yes
