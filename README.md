@@ -36,7 +36,8 @@ To extend the analysis, we built a predictive model to estimate **hospital readm
 - **Model:** Logistic Regression with one-hot encoding for categorical features  
 - **Target Variable:** `Readmission` (Yes/No → 1/0)  
 - **Features:** Age, Gender, Diagnosis, Treatment, Length of Stay, Outcome  
-- **Pipeline:** Preprocessing (categorical encoding + passthrough numerics) → Logistic Regression  
+- **Pipeline:** Preprocessing (categorical encoding + passthrough numerics) → Logistic Regression
+
 
 ### 🔎 Evaluation
 - Metrics include **Accuracy, Precision, Recall, F1-score, and ROC-AUC**  
@@ -51,6 +52,16 @@ Future improvements may include:
 - Feature importance analysis for interpretability  
 
 The complete implementation is available in [`notebooks/readmission_model.ipynb`](notebooks/readmission_model.ipynb).
+
+### ML Models Update
+
+This project includes two predictive models for **hospital readmission risk**:
+
+- **Logistic Regression** – a baseline model chosen for simplicity and interpretability.  
+- **Random Forest** – a more powerful model that captures non-linear relationships and provides feature importance insights.  
+
+Both models are implemented as Jupyter notebooks in the `notebooks/` directory.
+
 
 
 ## 📁 Data
