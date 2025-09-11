@@ -29,6 +29,30 @@ This project analyzes hospital patient data to uncover patterns in length of sta
 
 *(This section will be updated as analysis progresses.)*
 
+## 🤖 Machine Learning
+
+To extend the analysis, we built a predictive model to estimate **hospital readmission risk** based on patient demographics, diagnoses, and treatment details.
+
+- **Model:** Logistic Regression with one-hot encoding for categorical features  
+- **Target Variable:** `Readmission` (Yes/No → 1/0)  
+- **Features:** Age, Gender, Diagnosis, Treatment, Length of Stay, Outcome  
+- **Pipeline:** Preprocessing (categorical encoding + passthrough numerics) → Logistic Regression  
+
+### 🔎 Evaluation
+- Metrics include **Accuracy, Precision, Recall, F1-score, and ROC-AUC**  
+- Confusion matrix visualization for classification performance  
+- ROC-AUC provides insight into separability of the model
+
+### 📊 Insights
+This model provides a baseline for predicting readmission.  
+Future improvements may include:
+- Using ensemble methods (Random Forest, XGBoost)  
+- Hyperparameter tuning with cross-validation  
+- Feature importance analysis for interpretability  
+
+The complete implementation is available in [`notebooks/readmission_model.ipynb`](notebooks/readmission_model.ipynb).
+
+
 ## 📁 Data
 
 - The primary dataset used for this project is synthetic and modeled after typical hospital patient records. It has the following fields:  
