@@ -35,9 +35,9 @@ This project analyzes hospital patient data to uncover patterns in length of sta
   `Patient_ID`, `Age`, `Gender`, `Diagnosis`, `Treatment`, `Length_of_Stay`, `Outcome`, `Readmission`.
 
 - For those interested in exploring similar real-oriented datasets, here are some useful references:
-  - [Synthetic Hospital Data](https://www.kaggle.com/datasets/amulyas/synthetic-hospital-data) — includes demographic information, diagnoses, and stay length. :contentReference[oaicite:3]{index=3}  
-  - [Hospital Patient Records Dataset](https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice) — about 1,000 patient records with outcomes and treatment data. :contentReference[oaicite:4]{index=4}  
-  - [Hospital Readmission Prediction (Synthetic)](https://www.kaggle.com/datasets/siddharth0935/hospital-readmission-predictionsynthetic-dataset) — structured for exploring readmission risk. :contentReference[oaicite:5]{index=5}
+  - [Synthetic Hospital Data](https://www.kaggle.com/datasets/amulyas/synthetic-hospital-data) — includes demographic information, diagnoses, and stay length. 
+  - [Hospital Patient Records Dataset](https://www.kaggle.com/datasets/blueblushed/hospital-dataset-for-practice) — about 1,000 patient records with outcomes and treatment data.
+  - [Hospital Readmission Prediction (Synthetic)](https://www.kaggle.com/datasets/siddharth0935/hospital-readmission-predictionsynthetic-dataset) — structured for exploring readmission risk. 
 
 - Note: No personally identifiable information is included in the dataset. All records are synthetic or anonymized.
 
