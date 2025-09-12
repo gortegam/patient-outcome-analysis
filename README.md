@@ -9,6 +9,11 @@ This project analyzes hospital patient data to uncover patterns in length of sta
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
+## 🚀 Live Demo
+Try the app here: [Patient Readmission Dashboard]([https://yourusername-yourrepo.streamlit.app](https://gortegam-patient-ourcome-analysis.streamlit.app
+)
+
+
 ## 🗂️ Project Structure
 - `data/` – Contains the raw or sample datasets used for analysis.
 - `notebooks/` – Jupyter Notebooks with all the data exploration and visualizations.
