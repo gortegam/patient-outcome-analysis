@@ -10,8 +10,7 @@ This project analyzes hospital patient data to uncover patterns in length of sta
 - Jupyter Notebook
 
 ## 🚀 Live Demo
-Try the app here: [Patient Readmission Dashboard]([https://yourusername-yourrepo.streamlit.app](https://gortegam-patient-ourcome-analysis.streamlit.app
-)
+Try the app here: [Patient Readmission Dashboard](https://gortegam-patient-ourcome-analysis.streamlit.app)
 
 
 ## 🗂️ Project Structure
