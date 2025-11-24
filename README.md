@@ -83,7 +83,7 @@ This project directly maps to real workflows in:
 - Population health programs  
 - Quality improvement teams  
 
-It demonstrates your ability to:
+It demonstrates my ability to:
 
 - Build reproducible pipelines  
 - Translate data into clinical insights  
