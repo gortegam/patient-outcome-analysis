@@ -205,3 +205,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+notebooks/*.sage-jupyter2
+2025-11-17-file-1.term
